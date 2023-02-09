@@ -1,4 +1,7 @@
 # Neovim
+
+![](neovim.png)
+
 my neovim configuration
 
 ``` vim
