@@ -1,6 +1,7 @@
 # Neovim
 my neovim configuration
 
+``` vim
 :set number
 :set mouse=a
 :set title
@@ -40,3 +41,4 @@ let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 
 let g:airline_theme='cobalt2'
+   
